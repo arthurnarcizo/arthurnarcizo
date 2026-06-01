@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Lourenço! 👋
+# Olá, eu sou o Arthur Lourenço!
 
 Estudante de **Estatística e Ciência de Dados na UNICAMP** . Sou fascinado por unir o rigor acadêmico da estatística com o poder computacional da ciência de dados para transformar grandes volumes de dados em insights estratégicos e soluções preditivas de impacto real.
 
@@ -6,7 +6,7 @@ Tenho experiência prática no desenvolvimento de modelos estatísticos, manipul
 
 ---
 
-### 🛠️ Habilidades e Tecnologias
+### Habilidades e Tecnologias
 
 * **Linguagens de Programação:** Python (Pandas, NumPy), R, SQL
 * **Modelagem & Estatística:** Regressão Logística, Inferência Bayesiana, Séries Temporais e Machine Learning
@@ -14,7 +14,7 @@ Tenho experiência prática no desenvolvimento de modelos estatísticos, manipul
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 Aqui estão alguns dos principais projetos que desenvolvi na minha trajetória acadêmica e prática:
 
@@ -23,7 +23,7 @@ Aqui estão alguns dos principais projetos que desenvolvi na minha trajetória a
 
 ---
 
-### 🎓 Certificações & Conquistas
+### Certificações & Conquistas
 
 * **Introduction to Data Science in Python** – University of Michigan
 * **Excel Skills for Business** – Macquarie University
