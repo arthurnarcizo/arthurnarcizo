@@ -31,7 +31,7 @@ Aqui estão alguns dos principais projetos que desenvolvi na minha trajetória a
 
 ---
 
-### 📩 Vamos nos conectar?
+### Vamos nos conectar?
 
 Seja para discutir sobre ciência de dados, estatística, mercado financeiro ou oportunidades de estágio, sinta-se à vontade para entrar em contato!
 
